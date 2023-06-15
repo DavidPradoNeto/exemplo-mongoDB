@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Página Inicial</title>
+  <style>
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 100px;
+    }
+
+    .button {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <button class="button" onclick="reset()">Limpar lista</button>
+    <button class="button" onclick="buscarUsuarios()">Buscar Usuários</button>
+    <button class="button" onclick="buscarLivros()">Buscar Livros</button>
+    <ul id="result"></ul>
+  </div>
+
+  <script>
+    function reset() {
+      document.getElementById('result').innerHTML = ""
+    }
+    function buscarUsuarios() {
+      reset()
+      fetch('/api/users')
+        .then(response => response.json())
+        .then(data => {
+          const ul = document.getElementById('result');
+          data.forEach(element => {
+            const { _id, nome, idade, interesses } = element
+            var li = document.createElement('li')
+            li.innerText = `Id Interno: ${_id}\nNome: ${nome}\nIdade: ${idade}\nInteresses: ${interesses.toString()}\n\n`;
+            ul.appendChild(li)
+          });
+        })
+        .catch(error => {
+          console.error(error);
+        });
+    }
+
+    function buscarLivros() {
+      reset()
+      fetch('/api/books')
+        .then(response => response.json())
+        .then(data => {
+          const ul = document.getElementById('result');
+          data.forEach(element => {
+            const { _id, titulo, genero, autor, ano, ISBN } = element
+            var li = document.createElement('li')
+            li.innerText = `Id Interno: ${_id}\nTítulo: ${titulo}\nAno Lançamento: ${ano}\nAutor: ${autor}\nGenero: ${genero}\nISBM: ${ISBN}\n\n`;
+            ul.appendChild(li)
+          });
+        })
+        .catch(error => {
+          console.error(error);
+        });
+    }
+  </script>
+</body>
+
+</html>

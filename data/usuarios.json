@@ -1,0 +1,182 @@
+[
+	{
+		"nome": "João",
+		"foto": "joao.jpg",
+		"idade": 25,
+		"interesses": ["Esportes", "Música"]
+	},
+	{
+		"nome": "Maria",
+		"foto": "maria.jpg",
+		"idade": 30,
+		"interesses": ["Leitura", "Viagens"]
+	},
+	{
+		"nome": "Pedro",
+		"foto": "pedro.jpg",
+		"idade": 20,
+		"interesses": ["Cinema", "Tecnologia"]
+	},
+	{
+		"nome": "Ana",
+		"foto": "ana.jpg",
+		"idade": 28,
+		"interesses": ["Gastronomia", "Arte"]
+	},
+	{
+		"nome": "Lucas",
+		"foto": "lucas.jpg",
+		"idade": 22,
+		"interesses": ["Fotografia", "Natureza"]
+	},
+	{
+		"nome": "Carolina",
+		"foto": "carolina.jpg",
+		"idade": 27,
+		"interesses": ["Dança", "Moda"]
+	},
+	{
+		"nome": "Rafael",
+		"foto": "rafael.jpg",
+		"idade": 31,
+		"interesses": ["História", "Ciclismo"]
+	},
+	{
+		"nome": "Fernanda",
+		"foto": "fernanda.jpg",
+		"idade": 24,
+		"interesses": ["Animais", "Voluntariado"]
+	},
+	{
+		"nome": "Gabriel",
+		"foto": "gabriel.jpg",
+		"idade": 19,
+		"interesses": ["Jogos", "Filosofia"]
+	},
+	{
+		"nome": "Larissa",
+		"foto": "larissa.jpg",
+		"idade": 26,
+		"interesses": ["Teatro", "Psicologia"]
+	},
+	{
+		"nome": "Pedro",
+		"foto": "pedro.jpg",
+		"idade": 25,
+		"interesses": ["Esportes", "Música", "Viagens", "Culinária"]
+	},
+	{
+		"nome": "Mariana",
+		"foto": "mariana.jpg",
+		"idade": 28,
+		"interesses": ["Leitura", "Arte"]
+	},
+	{
+		"nome": "Lucas",
+		"foto": "lucas.jpg",
+		"idade": 22,
+		"interesses": ["Fotografia"]
+	},
+	{
+		"nome": "Ana",
+		"foto": "ana.jpg",
+		"idade": 30,
+		"interesses": ["Dança", "Moda", "Cinema", "Tecnologia"]
+	},
+	{
+		"nome": "Gustavo",
+		"foto": "gustavo.jpg",
+		"idade": 27,
+		"interesses": ["Esportes", "História", "Ciclismo", "Política"]
+	},
+	{
+		"nome": "Camila",
+		"foto": "camila.jpg",
+		"idade": 24,
+		"interesses": ["Música"]
+	},
+	{
+		"nome": "Rafaela",
+		"foto": "rafaela.jpg",
+		"idade": 29,
+		"interesses": ["Animais", "Voluntariado", "Gastronomia"]
+	},
+	{
+		"nome": "Leonardo",
+		"foto": "leonardo.jpg",
+		"idade": 21,
+		"interesses": ["Jogos", "Filosofia", "Tecnologia"]
+	},
+	{
+		"nome": "Fernanda",
+		"foto": "fernanda.jpg",
+		"idade": 26,
+		"interesses": ["Teatro"]
+	},
+	{
+		"nome": "Isabella",
+		"foto": "isabella.jpg",
+		"idade": 23,
+		"interesses": ["Esportes", "Música", "Leitura"]
+	},
+	{
+		"nome": "Ricardo",
+		"foto": "ricardo.jpg",
+		"idade": 32,
+		"interesses": ["Arquitetura", "Viagens", "Surfe"]
+	},
+	{
+		"nome": "Laura",
+		"foto": "laura.jpg",
+		"idade": 27,
+		"interesses": ["Gastronomia", "Música", "Cinema"]
+	},
+	{
+		"nome": "Felipe",
+		"foto": "felipe.jpg",
+		"idade": 29,
+		"interesses": ["Esportes", "Fotografia", "Natureza"]
+	},
+	{
+		"nome": "Amanda",
+		"foto": "amanda.jpg",
+		"idade": 26,
+		"interesses": ["Dança", "Moda", "Teatro"]
+	},
+	{
+		"nome": "Diego",
+		"foto": "diego.jpg",
+		"idade": 31,
+		"interesses": ["Tecnologia", "Games", "Filosofia"]
+	},
+	{
+		"nome": "Isabela",
+		"foto": "isabela.jpg",
+		"idade": 24,
+		"interesses": ["Arte", "Literatura"]
+	},
+	{
+		"nome": "Henrique",
+		"foto": "henrique.jpg",
+		"idade": 23,
+		"interesses": ["Esportes", "Música", "Culinária", "Viagens"]
+	},
+	{
+		"nome": "Lívia",
+		"foto": "livia.jpg",
+		"idade": 30,
+		"interesses": ["Cinema", "Psicologia"]
+	},
+	{
+		"nome": "Rafael",
+		"foto": "rafael.jpg",
+		"idade": 25,
+		"interesses": ["Esportes", "Música", "História"]
+	},
+	{
+		"nome": "Carolina",
+		"foto": "carolina.jpg",
+		"idade": 28,
+		"interesses": ["Leitura", "Viagens", "Animais"]
+	}
+]

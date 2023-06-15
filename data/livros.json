@@ -1,0 +1,359 @@
+[
+	{
+		"titulo": "Dom Quixote",
+		"autor": "Miguel de Cervantes",
+		"ano": 1605,
+		"ISBN": "9780142437230",
+		"genero": "Esportes"
+	},
+	{
+		"titulo": "Orgulho e Preconceito",
+		"autor": "Jane Austen",
+		"ano": 1813,
+		"ISBN": "9780192802385",
+		"genero": "Música"
+	},
+	{
+		"titulo": "O Grande Gatsby",
+		"autor": "F. Scott Fitzgerald",
+		"ano": 1925,
+		"ISBN": "9780743273565",
+		"genero": "Leitura"
+	},
+	{
+		"titulo": "1984",
+		"autor": "George Orwell",
+		"ano": 1949,
+		"ISBN": "9780451524935",
+		"genero": "Viagens"
+	},
+	{
+		"titulo": "Moby Dick",
+		"autor": "Herman Melville",
+		"ano": 1851,
+		"ISBN": "9780142437247",
+		"genero": "Cinema"
+	},
+	{
+		"titulo": "Dom Casmurro",
+		"autor": "Machado de Assis",
+		"ano": 1899,
+		"ISBN": "9788587781005",
+		"genero": "Tecnologia"
+	},
+	{
+		"titulo": "A Metamorfose",
+		"autor": "Franz Kafka",
+		"ano": 1915,
+		"ISBN": "9780142437339",
+		"genero": "Gastronomia"
+	},
+	{
+		"titulo": "O Sol é para Todos",
+		"autor": "Harper Lee",
+		"ano": 1960,
+		"ISBN": "9780061120084",
+		"genero": "Arte"
+	},
+	{
+		"titulo": "Ulisses",
+		"autor": "James Joyce",
+		"ano": 1922,
+		"ISBN": "9780199535675",
+		"genero": "Fotografia"
+	},
+	{
+		"titulo": "Crime e Castigo",
+		"autor": "Fiódor Dostoiévski",
+		"ano": 1866,
+		"ISBN": "9780140449136",
+		"genero": "Natureza"
+	},
+	{
+		"titulo": "O Pequeno Príncipe",
+		"autor": "Antoine de Saint-Exupéry",
+		"ano": 1943,
+		"ISBN": "9780156012195",
+		"genero": "Dança"
+	},
+	{
+		"titulo": "A Revolução dos Bichos",
+		"autor": "George Orwell",
+		"ano": 1945,
+		"ISBN": "9780451526342",
+		"genero": "Moda"
+	},
+	{
+		"titulo": "A Odisséia",
+		"autor": "Homero",
+		"ano": -800,
+		"ISBN": "9780143039952",
+		"genero": "História"
+	},
+	{
+		"titulo": "A Divina Comédia",
+		"autor": "Dante Alighieri",
+		"ano": 1320,
+		"ISBN": "9780142437223",
+		"genero": "Ciclismo"
+	},
+	{
+		"titulo": "A Culpa é das Estrelas",
+		"autor": "John Green",
+		"ano": 2012,
+		"ISBN": "9780142424179",
+		"genero": "Animais"
+	},
+	{
+		"titulo": "O Diário de Anne Frank",
+		"autor": "Anne Frank",
+		"ano": 1947,
+		"ISBN": "9780553296983",
+		"genero": "Voluntariado"
+	},
+	{
+		"titulo": "Jogador Número 1",
+		"autor": "Ernest Cline",
+		"ano": 2011,
+		"ISBN": "9780307887443",
+		"genero": "Jogos"
+	},
+	{
+		"titulo": "Assim Falou Zaratustra",
+		"autor": "Friedrich Nietzsche",
+		"ano": 1883,
+		"ISBN": "9788535910896",
+		"genero": "Filosofia"
+	},
+	{
+		"titulo": "Hamlet",
+		"autor": "William Shakespeare",
+		"ano": 1603,
+		"ISBN": "9780141396507",
+		"genero": "Teatro"
+	},
+	{
+		"titulo": "Além do Bem e do Mal",
+		"autor": "Friedrich Nietzsche",
+		"ano": 1886,
+		"ISBN": "9788535911282",
+		"genero": "Psicologia"
+	},
+	{
+		"titulo": "1984",
+		"autor": "George Orwell",
+		"ano": 1949,
+		"ISBN": "9780451524935",
+		"genero": "Política"
+	},
+	{
+		"titulo": "A Canção de Aquiles",
+		"autor": "Madeline Miller",
+		"ano": 2011,
+		"ISBN": "9780062060624",
+		"genero": "Música"
+	},
+	{
+		"titulo": "A Casa de Hades",
+		"autor": "Rick Riordan",
+		"ano": 2013,
+		"ISBN": "9781423146728",
+		"genero": "Arquitetura"
+	},
+	{
+		"titulo": "A Menina que Roubava Livros",
+		"autor": "Markus Zusak",
+		"ano": 2005,
+		"ISBN": "9788535916997",
+		"genero": "Surfe"
+	},
+	{
+		"titulo": "Cem Anos de Solidão",
+		"autor": "Gabriel García Márquez",
+		"ano": 1967,
+		"ISBN": "9788501069869",
+		"genero": "Literatura"
+	},
+	{
+		"titulo": "O Alquimista",
+		"autor": "Paulo Coelho",
+		"ano": 1988,
+		"ISBN": "9780061122415",
+		"genero": "Autoajuda"
+	},
+	{
+		"titulo": "A Guerra dos Tronos",
+		"autor": "George R.R. Martin",
+		"ano": 1996,
+		"ISBN": "9780553103540",
+		"genero": "Fantasia"
+	},
+	{
+		"titulo": "O Código Da Vinci",
+		"autor": "Dan Brown",
+		"ano": 2003,
+		"ISBN": "9780552149518",
+		"genero": "Suspense"
+	},
+	{
+		"titulo": "As Crônicas de Nárnia",
+		"autor": "C.S. Lewis",
+		"ano": 1950,
+		"ISBN": "9780064471109",
+		"genero": "Fantasia"
+	},
+	{
+		"titulo": "A Menina que Roubava Livros",
+		"autor": "Markus Zusak",
+		"ano": 2005,
+		"ISBN": "9788535916997",
+		"genero": "Drama"
+	},
+	{
+		"titulo": "A Revolução dos Bichos",
+		"autor": "George Orwell",
+		"ano": 1945,
+		"ISBN": "9780451526342",
+		"genero": "Sátira"
+	},
+	{
+		"titulo": "O Retrato de Dorian Gray",
+		"autor": "Oscar Wilde",
+		"ano": 1890,
+		"ISBN": "9780141439570",
+		"genero": "Clássico"
+	},
+	{
+		"titulo": "A Culpa é das Estrelas",
+		"autor": "John Green",
+		"ano": 2012,
+		"ISBN": "9780142424179",
+		"genero": "Romance"
+	},
+	{
+		"titulo": "O Nome do Vento",
+		"autor": "Patrick Rothfuss",
+		"ano": 2007,
+		"ISBN": "9780575081406",
+		"genero": "Fantasia"
+	},
+	{
+		"titulo": "A Cabana",
+		"autor": "William P. Young",
+		"ano": 2007,
+		"ISBN": "9780964729230",
+		"genero": "Fé"
+	},
+	{
+		"titulo": "O Hobbit",
+		"autor": "J.R.R. Tolkien",
+		"ano": 1937,
+		"ISBN": "9780261103283",
+		"genero": "Fantasia"
+	},
+	{
+		"titulo": "O Diário de Anne Frank",
+		"autor": "Anne Frank",
+		"ano": 1947,
+		"ISBN": "9780553296983",
+		"genero": "Biografia"
+	},
+	{
+		"titulo": "O Apanhador no Campo de Centeio",
+		"autor": "J.D. Salinger",
+		"ano": 1951,
+		"ISBN": "9780316769174",
+		"genero": "Ficção"
+	},
+	{
+		"titulo": "Morte Súbita",
+		"autor": "J.K. Rowling",
+		"ano": 2012,
+		"ISBN": "9780316228534",
+		"genero": "Drama"
+	},
+	{
+		"titulo": "O Ladrão de Raios",
+		"autor": "Rick Riordan",
+		"ano": 2005,
+		"ISBN": "9781423106981",
+		"genero": "Aventura"
+	},
+	{
+		"titulo": "As Vantagens de Ser Invisível",
+		"autor": "Stephen Chbosky",
+		"ano": 1999,
+		"ISBN": "9781451696196",
+		"genero": "Juvenil"
+	},
+	{
+		"titulo": "O Morro dos Ventos Uivantes",
+		"autor": "Emily Brontë",
+		"ano": 1847,
+		"ISBN": "9780141439556",
+		"genero": "Romance"
+	},
+	{
+		"titulo": "O Sol é para Todos",
+		"autor": "Harper Lee",
+		"ano": 1960,
+		"ISBN": "9780060935467",
+		"genero": "Drama"
+	},
+	{
+		"titulo": "Laranja Mecânica",
+		"autor": "Anthony Burgess",
+		"ano": 1962,
+		"ISBN": "9783150092221",
+		"genero": "Ficção Científica"
+	},
+	{
+		"titulo": "Drácula",
+		"autor": "Bram Stoker",
+		"ano": 1897,
+		"ISBN": "9780141439846",
+		"genero": "Terror"
+	},
+	{
+		"titulo": "O Senhor das Moscas",
+		"autor": "William Golding",
+		"ano": 1954,
+		"ISBN": "9780571056866",
+		"genero": "Ficção"
+	},
+	{
+		"titulo": "A Ilha do Tesouro",
+		"autor": "Robert Louis Stevenson",
+		"ano": 1883,
+		"ISBN": "9780192545055",
+		"genero": "Aventura"
+	},
+	{
+		"titulo": "A Metamorfose",
+		"autor": "Franz Kafka",
+		"ano": 1915,
+		"ISBN": "9780141194837",
+		"genero": "Ficção"
+	},
+	{
+		"titulo": "1984",
+		"autor": "George Orwell",
+		"ano": 1949,
+		"ISBN": "9780451524935",
+		"genero": "Distopia"
+	},
+	{
+		"titulo": "O Grande Gatsby",
+		"autor": "F. Scott Fitzgerald",
+		"ano": 1925,
+		"ISBN": "9780743273565",
+		"genero": "Drama"
+	},
+	{
+		"titulo": "O Estrangeiro",
+		"autor": "Albert Camus",
+		"ano": 1942,
+		"ISBN": "9782070360024",
+		"genero": "Ficção"
+	}
+]
